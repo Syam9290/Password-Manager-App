@@ -1,0 +1,169 @@
+.bgContainer {
+  background-color: #9ba9eb;
+  height: 100vh;
+  width: 60%;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.applogo {
+  height: 30px;
+  width: 80px;
+  margin-bottom: 10px;
+}
+
+.topSection {
+  background-color: #5763a5;
+  width: 100%;
+  height: 300px;
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+.addNewPswSection {
+  background-color: #454f84;
+  border-radius: 10px;
+  height: 100%;
+  width: 50%;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.passwordManager {
+  margin-right: 50px;
+}
+
+.title {
+  color: white;
+}
+
+.websiteContainer {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.websiteBg {
+  background-color: white;
+  height: 29px;
+  margin-top: 1px;
+  width: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0px;
+}
+
+.website {
+  height: 15px;
+  width: 15px;
+  background-color: white;
+}
+
+.addBtn {
+  background-color: #0b69ff;
+  color: white;
+  width: 70px;
+  border: none;
+  height: 25px;
+  border-radius: 6px;
+  margin-left: auto;
+}
+
+.searchInput {
+  height: 30px;
+  width: 100%;
+  margin-top: 0px;
+}
+
+.BottomSection {
+  background-color: #5763a5;
+  width: 100%;
+  height: 270px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.yourPswTopBg {
+  display: flex;
+
+  justify-content: space-between;
+  height: 35px;
+  width: 100%;
+}
+.pswCountSection {
+  height: 35px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.pswCountSectionBg {
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 10px;
+  width: 30px;
+  height: 20px;
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+.SearchBg {
+  background-color: white;
+  height: 30px;
+  margin-top: 1px;
+  width: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0px;
+}
+
+.hrline {
+  border: 1px solid #c3caea;
+  margin-top: 5px;
+  width: 100%;
+}
+
+.showPswBg {
+  align-self: flex-end;
+  display: flex;
+  color: white;
+  font-size: 12px;
+    width: auto;
+}
+
+.noPsw {
+  height: 130px;
+  width: 180px;
+}
+.NoPswSection {
+  margin: auto;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.PswlistItemsSection {
+  margin-top: 0px;
+  padding: 0px;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
